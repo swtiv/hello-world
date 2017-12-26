@@ -1,2 +1,3 @@
 # hello-world
-this my first step in github
+
+I am a new member and i like learning news skills
